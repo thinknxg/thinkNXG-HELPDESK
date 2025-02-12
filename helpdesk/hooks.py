@@ -1,18 +1,18 @@
 app_name = "helpdesk"
-app_title = "Helpdesk"
-app_publisher = "Frappe Technologies"
+app_title = "thinkNXG Helpdesk"
+app_publisher = "thinkNXG Technologies"
 app_description = "Customer Service Software"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
-app_email = "hello@frappe.io"
+app_email = "hello@thinkNXG.io"
 app_license = "AGPLv3"
 required_apps = ["frappe/telephony"]
 
 add_to_apps_screen = [
     {
-        "name": "helpdesk",
-        "logo": "/assets/helpdesk/desk/favicon.svg",
-        "title": "Helpdesk",
+        "name": "thinkNXG Helpdesk",
+        "logo": "/assets/helpdesk/desk/thinkNXG-logo.png",
+        "title": "thinkNXG Helpdesk",
         "route": "/helpdesk",
         "has_permission": "helpdesk.api.permission.has_app_permission",
     }
