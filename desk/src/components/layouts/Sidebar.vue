@@ -321,12 +321,12 @@ const agentPortalDropdown = computed(() => [
   {
     icon: "life-buoy",
     label: "Support",
-    onClick: () => window.open("https://t.me/frappedesk"),
+    onClick: () => window.open("https://support.thinknxg.com"),
   },
   {
     icon: "book-open",
     label: "Docs",
-    onClick: () => window.open("https://docs.frappe.io/helpdesk"),
+    onClick: () => window.open("https://docs.thinknxg.com/helpdesk"),
   },
   {
     label: "Login to Frappe Cloud",
