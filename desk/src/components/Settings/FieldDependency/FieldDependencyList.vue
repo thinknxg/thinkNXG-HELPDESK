@@ -7,7 +7,7 @@
             Field Dependencies
           </h1>
           <DocumentationButton
-            url="https://docs.frappe.io/helpdesk/field-dependency"
+            url="https://docs.thinknxg.com/helpdesk/field-dependency"
             color="!text-ink-gray-6"
           />
         </div>

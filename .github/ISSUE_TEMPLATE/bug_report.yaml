@@ -1,13 +1,13 @@
 ---
 name: Bug Report
-description: Report a bug encountered while using Frappe Helpdesk
+description: Report a bug encountered while using thinkNXG Helpdesk
 labels: ["bug"]
 
 body:
   - type: markdown
     attributes:
       value: |
-        Welcome to Frappe Helpdesk issue tracker! Before creating an issue, please consider the following:
+        Welcome to thinkNXG Helpdesk issue tracker! Before creating an issue, please consider the following:
 
         1. This tracker should only be used to report bugs and request features / enhancements to Frappe Helpdesk
             - For questions and general support, checkout the [documentation](https://docs.frappe.io/helpdesk) or use the [forum](https://discuss.frappe.io) to get inputs from the open source community.

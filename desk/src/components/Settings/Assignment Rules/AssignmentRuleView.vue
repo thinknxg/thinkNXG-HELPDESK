@@ -140,7 +140,7 @@
             }}
             <a
               class="font-medium underline"
-              href="https://docs.frappe.io/helpdesk/assignment-rule"
+              href="https://docs.thinknxg.com/helpdesk/assignment-rule"
               target="_blank"
               >{{ __("Learn about conditions") }}</a
             >
@@ -214,7 +214,7 @@
             }}
             <a
               class="font-medium underline"
-              href="https://docs.frappe.io/helpdesk/assignment-rule"
+              href="https://docs.thinknxg.com/helpdesk/assignment-rule"
               target="_blank"
               >{{ __("Learn about conditions") }}</a
             >
